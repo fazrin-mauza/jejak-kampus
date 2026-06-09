@@ -1,0 +1,20 @@
+[20-May-2026 19:50:31 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid token format in /home/xfag9686/public_html/jejak-kampus.web.id/auth/vendor/google/apiclient/src/Google/Client.php:423
+Stack trace:
+#0 /home/xfag9686/public_html/jejak-kampus.web.id/auth/google-callback.php(8): Google_Client->setAccessToken()
+#1 {main}
+  thrown in /home/xfag9686/public_html/jejak-kampus.web.id/auth/vendor/google/apiclient/src/Google/Client.php on line 423
+[21-May-2026 09:33:37 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid token format in /home/xfag9686/public_html/jejak-kampus.web.id/auth/vendor/google/apiclient/src/Google/Client.php:423
+Stack trace:
+#0 /home/xfag9686/public_html/jejak-kampus.web.id/auth/google-callback.php(8): Google_Client->setAccessToken()
+#1 {main}
+  thrown in /home/xfag9686/public_html/jejak-kampus.web.id/auth/vendor/google/apiclient/src/Google/Client.php on line 423
+[21-May-2026 09:42:37 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid token format in /home/xfag9686/public_html/jejak-kampus.web.id/auth/vendor/google/apiclient/src/Google/Client.php:423
+Stack trace:
+#0 /home/xfag9686/public_html/jejak-kampus.web.id/auth/google-callback.php(8): Google_Client->setAccessToken()
+#1 {main}
+  thrown in /home/xfag9686/public_html/jejak-kampus.web.id/auth/vendor/google/apiclient/src/Google/Client.php on line 423
+[09-Jun-2026 10:14:23 Asia/Jakarta] PHP Fatal error:  Uncaught InvalidArgumentException: Invalid token format in /home/xfag9686/public_html/jejak-kampus.web.id/auth/vendor/google/apiclient/src/Google/Client.php:423
+Stack trace:
+#0 /home/xfag9686/public_html/jejak-kampus.web.id/auth/google-callback.php(8): Google_Client->setAccessToken()
+#1 {main}
+  thrown in /home/xfag9686/public_html/jejak-kampus.web.id/auth/vendor/google/apiclient/src/Google/Client.php on line 423
